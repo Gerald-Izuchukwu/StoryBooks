@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb://localhost:27017/StoryBooks",
+    "PORT": 3600,
+    "GOOGLE_CLIENT_ID": "1088705090648-fk9lehto0nko76vr6scr9qcesom4tv3u.apps.googleusercontent.com",
+    "GOOGLE_CLIENT_SECRET": "5M9raKETlD8SXmEtBb4DHg-j"
+}
